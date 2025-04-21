@@ -68,7 +68,7 @@
     <section>
       <h2 class="section-title">Education</h2>
       <ul>
-        <li><strong>BCA, Computer Science & Engineering</strong> – S.S. Jain Subodh College, Jaipur (2025) – <em>7.23 CGPA</em></li>
+        <li><strong>BCA, Computer Science & Engineering</strong> – Poornima University, Jaipur (2025) – <em>7.23 CGPA</em></li>
         <li><strong>Class XII (CBSE)</strong> – S.V.G.M.S, Newai (2022) – <em>84%</em></li>
         <li><strong>Class X (CBSE)</strong> – S.V.G.M.S, Newai (2020) – <em>80%</em></li>
       </ul>

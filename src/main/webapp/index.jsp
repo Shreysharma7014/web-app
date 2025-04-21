@@ -78,6 +78,7 @@
       <h2 class="section-title">Projects</h2>
       <ul>
         <li><strong>Blog Website (Jul 2024):</strong> Built a blog site with MySQL DB using Docker containers on RHEL.</li>
+        <li><strong>CI/CD (Jul 2024):</strong> Built a blog site with MySQL DB using Docker containers on RHEL.</li>
         <li><strong>Docker Configuration (Mar 2024):</strong> Installed Docker on multiple nodes using Ansible playbook.</li>
       </ul>
     </section>
